@@ -4,4 +4,4 @@ In this project, I have used HTML, CSS and Javascript to create a simple webpage
 To play this dice game you will need 2 players and each player will choose their respective dice i.e. left dice or right dice and then reload the webpage. After reloading, the player whose dice have higher number wins.
 
 ## To Run
-To play the dice game, click on the following link :-  https://shubham-kumar-sahoo.github.io/Dice-Game/
+To play the dice game, click on the following link :  https://shubham-kumar-sahoo.github.io/Dice-Game/
